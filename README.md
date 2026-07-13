@@ -1,6 +1,6 @@
 # Lucas Borile
-
-**Data & Systems Engineer building resilient and intelligent systems.**
+🇧🇷 🇮🇹 🇫🇷 🇺🇸
+**Data & Systems Engineer.**
 
 I work at the intersection of data engineering, artificial intelligence, computer vision, embedded devices, and off-grid communications.
 
